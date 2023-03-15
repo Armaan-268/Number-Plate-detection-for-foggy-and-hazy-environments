@@ -1,1 +1,4 @@
 /plate-detection-recognition/model/weights
+
+/yolov4-custom-functions/checkpoints/custom-416/variables
+/yolov4-custom-functions/data/custom.weights
